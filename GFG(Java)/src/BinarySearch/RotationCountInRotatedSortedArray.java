@@ -1,5 +1,4 @@
 package BinarySearch;
-
 import java.util.Scanner;
 
 public class RotationCountInRotatedSortedArray {
