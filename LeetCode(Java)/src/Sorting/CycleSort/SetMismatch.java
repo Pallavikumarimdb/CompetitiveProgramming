@@ -30,9 +30,7 @@ public class SetMismatch {
         for(int j=0; j<nums.length; j++){
 
             if(nums[j]!=j+1){
-                arr[0]=nums[j];
-                arr[1]=j+1;
-                return arr;
+                return new int[]{nums[j], j+1};
             }
         }
 
