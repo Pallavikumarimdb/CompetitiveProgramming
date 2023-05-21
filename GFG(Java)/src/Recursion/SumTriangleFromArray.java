@@ -24,7 +24,7 @@ public class SumTriangleFromArray {
 
         int[] arr={436, 139, 357, 440, 60, 374, 214, 437, 264};
         sumTriangle(arr);
-        System.out.println(Arrays.toString(arr));
+//        System.out.println(Arrays.toString(arr));
     }
 
     public static void sumTriangle(int[] arr){
