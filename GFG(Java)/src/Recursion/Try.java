@@ -12,8 +12,11 @@ public class Try {
                 arr[a] = sc.nextInt();
             }
             sumtraingle(arr);
+
         }
         public static void sumtraingle(int [] arr){
             System.out.println(Arrays.toString(arr));
         }
+
+
     }
