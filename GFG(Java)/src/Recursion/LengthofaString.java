@@ -2,12 +2,12 @@ package Recursion;
 
 public class LengthofaString {
     public static void main(String[] args) {
-        String s="JrfB8Q0Au9oBCjNE1Mbj";
+        String s="bj";
         System.out.println(lengthofString(s, 0));
         System.out.println(lengthOfString1(s, 0));
 
     }
-    public static int lengthofString(String s, int i){
+        public static int lengthofString(String s, int i){
         if(i==s.length()){
             return i;
         }
@@ -15,7 +15,7 @@ public class LengthofaString {
     }
 
     public static int lengthOfString1(String s, int i){
-        if(s==""){
+        if(s.equals("")){
             return i;
         }
 
