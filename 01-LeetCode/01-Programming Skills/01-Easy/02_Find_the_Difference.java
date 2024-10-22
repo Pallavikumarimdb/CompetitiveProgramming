@@ -1,6 +1,6 @@
 // Question:- https://leetcode.com/problems/find-the-difference/?envType=study-plan-v2&envId=programming-skills
 
-class Solution {
+class Find_the_Difference{
     public char findTheDifference(String s, String t) {
         
         int num = 0;

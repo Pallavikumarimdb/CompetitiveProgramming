@@ -3,7 +3,7 @@
 
 // Note:- Here Integer limit will be exceeded even with long hence try to count -ve and 0 instead of multiplying
 
-class Solution {
+class Sign_of_the_Product_of_an_Array{
     public int arraySign(int[] nums) {
         int countZero = 0;
         int countNegative = 0;

@@ -1,7 +1,7 @@
 // Question:-https://leetcode.com/problems/plus-one/?envType=study-plan-v2&envId=programming-skills
 import java.util.*;
 
-class Solution {
+class Plus_One {
     public int[] plusOne(int[] digits) {
         ArrayList<Integer> arr=new ArrayList<>();
         int rem=0;

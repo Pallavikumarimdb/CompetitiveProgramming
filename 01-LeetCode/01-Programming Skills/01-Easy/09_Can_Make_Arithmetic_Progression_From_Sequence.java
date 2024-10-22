@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-class Solution {
+class Can_Make_Arithmetic_Progression_From_Sequence {
     public boolean canMakeArithmeticProgression(int[] arr) {
         Arrays.sort(arr);
         int def=arr[0]-arr[1];

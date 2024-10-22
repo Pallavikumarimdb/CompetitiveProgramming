@@ -6,7 +6,7 @@ They are fixed in size and accessed using indices.
 Each element in an array is identified by an index, which starts at 0.
 
 ### For example:
-```java
+```bash
 // Declare an array of integers with a length of 5
 int[] myArray = new int[5];
 

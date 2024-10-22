@@ -1,4 +1,4 @@
-class Solution {
+class MonotonicArray {
     public boolean isMonotonic(int[] nums) {
         if(nums[0]<=nums[nums.length-1]){
             

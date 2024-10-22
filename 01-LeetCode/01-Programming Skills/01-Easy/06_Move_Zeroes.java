@@ -1,6 +1,6 @@
 // Question:-https://leetcode.com/problems/move-zeroes/?envType=study-plan-v2&envId=programming-skills
 
-class Solution {
+class Move_Zeroes{
     public void moveZeroes(int[] nums) {
 
         for(int i=0; i<nums.length; i++){

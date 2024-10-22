@@ -1,6 +1,6 @@
 //Question:-- https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=programming-skills
 
-class Solution {
+class Merge_Strings_Alternately {
     public String mergeAlternately(String w1, String w2) {
         StringBuilder sc=new StringBuilder();
 

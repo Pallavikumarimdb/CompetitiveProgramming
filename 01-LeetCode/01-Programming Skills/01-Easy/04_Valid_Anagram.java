@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-class Solution {
+class Valid_Anagram {
     public boolean isAnagram(String s, String t) {
         
         if(s.length()!=t.length()){

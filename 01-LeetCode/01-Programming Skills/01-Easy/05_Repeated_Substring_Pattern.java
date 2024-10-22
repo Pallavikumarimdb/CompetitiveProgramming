@@ -3,7 +3,7 @@
 
 // RETRY SOLVED USING HINT
 
-class Solution {
+class Repeated_Substring_Pattern {
     public boolean repeatedSubstringPattern(String str) {
         int l = str.length();
         for (int i = l / 2; i >= 1; i--) {
