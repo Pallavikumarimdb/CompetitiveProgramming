@@ -1,4 +1,4 @@
-package Arrays.Easy;
+//package Arrays.Easy;
 
 public class Max_Consecutive_Ones {
     public static void main(String[] args) {
